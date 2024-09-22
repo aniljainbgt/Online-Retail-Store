@@ -27,6 +27,10 @@ Published in Journal of Database Marketing and Customer Strategy Management, Vol
 
 ### Dashboard Images
 
+<img src="Images/Question-1.png">
 
+<img src="Images/Question-2.png">
 
+<img src="Images/Question-3.png">
 
+<img src="Images/Question-4.png">
