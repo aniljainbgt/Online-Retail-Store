@@ -22,15 +22,17 @@ The dataset has been made available by **Daqing Chen, Sai Laing Sain, Kun Guo** 
 Published in Journal of Database Marketing and Customer Strategy Management, Vol. 19, No. 3
 
 ### Data Cleaning
-
-- Used conditional formatting to indentify blank/missing values. 
+- Downloaded the data from the source and kept a copy of the data, before cleaning.
+- Used **Conditional formatting** in Excel to indentify blank/missing values. 
   * Found 1,35,079 rows with missing Customer Ids and 1453+47 = 1500 rows with missing or invalid description just with a "?"
 
 - Used **Find & Replace** feature to replace these blank/invalid values with "Unknown" 
 
 - As per the instructions rows with Quantity<1 and UnitPrice<0 should not be included in the analysis
-  * Used CountIFs function to count such rows. Found, there were 10624 rows with Qunatity less than 1, and 2 rows with UnitPrice less than 0
+  * Used **CountIFs** function to count such rows. Found, there were 10624 rows with Qunatity less than 1, and 2 rows with UnitPrice less than 0
   * Removed all these rows. To delete these rows first filtered the table for Quantity<1 and UnitPrice<0 then deleted the filtered rows from the table.
+- Used **Text to Columns** to remove any inconsistencies in the InvoiceDate column.
+- Changed format of all columns to appropriate format.
 
 ### Analysis and Visualization
 
@@ -46,7 +48,7 @@ Published in Journal of Database Marketing and Customer Strategy Management, Vol
   - Changing Data Type
   - Replacing missing values with appropriate values
   - Transformation -> Change Case to Proper, UPPER
-- Data Visualization - Charts and Graphs
+- Data Visualization in Power BI - Charts and Graphs
   - Column Chart
   - Bar Chart
   - Line Chart
