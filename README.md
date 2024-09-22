@@ -21,3 +21,12 @@ The dataset has been made available by **Daqing Chen, Sai Laing Sain, Kun Guo** 
 
 Published in Journal of Database Marketing and Customer Strategy Management, Vol. 19, No. 3
 
+### Data Cleaning
+
+### Analysis and Visualization
+
+### Dashboard Images
+
+
+
+
