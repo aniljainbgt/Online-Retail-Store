@@ -1,4 +1,4 @@
-# Online Retail Store Data Analysis using Excel & POWER BI
+# Online Retail Store Data Analysis using Excel & Power BI
 
 ### About the Case Study
 
