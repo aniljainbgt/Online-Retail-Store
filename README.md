@@ -2,7 +2,7 @@
 
 ### About the Case Study
 
-This case study was part of a online certificate cource ***Data Visualisation: Empowering Business with Effective Insights*** offered by **Tata Group**. 
+This case study was part of a online job simulation certificate [***Data Visualisation: Empowering Business with Effective Insights***](https://www.theforage.com/simulations/tata/data-visualisation-p5xo) offered by **Tata Group**. 
 
 ### About the dataset
 
@@ -22,6 +22,15 @@ The dataset has been made available by **Daqing Chen, Sai Laing Sain, Kun Guo** 
 Published in Journal of Database Marketing and Customer Strategy Management, Vol. 19, No. 3
 
 ### Data Cleaning
+
+First of all uesed conditional formatting to indentify blank/missing values. 
+
+Found 1,33,358 rows with missing Customer Ids, 597 rows with missing or invalid description just with a "?"
+      Used **Find & Replace** feature to replace these blank/invalid values with "Unknown" 
+
+
+
+
 
 ### Analysis and Visualization
 
