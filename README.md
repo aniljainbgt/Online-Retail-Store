@@ -23,14 +23,14 @@ Published in Journal of Database Marketing and Customer Strategy Management, Vol
 
 ### Data Cleaning
 
-First of all uesed conditional formatting to indentify blank/missing values. 
+- Used conditional formatting to indentify blank/missing values. 
+  * Found 1,35,079 rows with missing Customer Ids and 1453+47 = 1500 rows with missing or invalid description just with a "?"
 
-Found 1,35,079 rows with missing Customer Ids and 1453+47 = 1500 rows with missing or invalid description just with a "?"
 - Used **Find & Replace** feature to replace these blank/invalid values with "Unknown" 
 
-As per the instructions filtered and removed rows with Quantity<1 and UnitPrice<0, as these should not be included in the analysis
-- There were 10624 rows with Qunatity less than 1, and 2 rows with UnitPrice less than 0
-* Removed all these rows. To delete these rows first filtered the table for Quantity<1 and UnitPrice<0 then deleted the filtered rows from the table.
+- As per the instructions rows with Quantity<1 and UnitPrice<0 should not be included in the analysis
+  * Used CountIFs function to count such rows. Found, there were 10624 rows with Qunatity less than 1, and 2 rows with UnitPrice less than 0
+  * Removed all these rows. To delete these rows first filtered the table for Quantity<1 and UnitPrice<0 then deleted the filtered rows from the table.
 
 ### Analysis and Visualization
 
