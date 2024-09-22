@@ -40,8 +40,9 @@ Published in Journal of Database Marketing and Customer Strategy Management, Vol
 - The above line chart revealed a sharp dip in revenue between Jan to Apr. To investigate the reason behind this dip, created a **waterfall chart**
   * The waterfall chart shows that UK contributed the most to decrease the revenue in Feb as well as Apr.
 - The **bar chart** for Top 10 Country by Revenue (excluding UK) shows that Netherlands, EIRE and Germany are the leading countries followed by Australia, Spain. The chart also shows a huge gap in revenue between the first country in the list and the tenth country. This suggests the posibility of doing something to improve in this direction.
-- Created a **column chart** to visualize top 10 customers.
-- Created a Map chart to show the distribution of sales of the company excluding UK. This shows, most of the sales come from European countries.
+- Created a **column chart** to visualize top 10 customers. First two customers are particularly noteworthy for their substantial contributions they contributed more than $250K each. We can see considerable gap in the revenue between the top-performing customers and the rest, indicating potential areas for our customer satisfaction strategies.
+- Created a **Map chart** to show the distribution of sales of the company excluding UK.
+- The Map clearly highlights a concentration of demand in European countries, with larger bubbles indicating stronger demand in regions like Germany and France. While Europe takes the spotlight, there is potential in regions like Australia and parts of Asia, as indicated by the presence of bubbles, though smaller in size.
 
 ### Skills Used in Excel
 - Formating
