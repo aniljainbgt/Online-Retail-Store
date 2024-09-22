@@ -2,7 +2,7 @@
 
 ### About the Case Study
 
-This case study was part of a online certificate cource offered by **Tata Group**, ***Data Visualisation: Empowering Business with Effective Insights***
+This case study was part of a online certificate cource ***Data Visualisation: Empowering Business with Effective Insights*** offered by **Tata Group**. 
 
 ### About the dataset
 
