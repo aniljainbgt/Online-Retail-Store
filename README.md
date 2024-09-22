@@ -35,6 +35,13 @@ Published in Journal of Database Marketing and Customer Strategy Management, Vol
 - Changed format of all columns to appropriate format.
 
 ### Analysis and Visualization
+- Created a **line chart** to visualize revenue from Jan-11 to Dec-11
+  * The chart reveals a mix trend in revenue from Jan to Apr then it shows a small growth from May till Nov.
+- The above line chart revealed a sharp dip in revenue between Jan to Apr. To investigate the reason behind this dip, created a **waterfall chart**
+  * The waterfall chart shows that UK contributed the most to decrease the revenue in Feb as well as Apr.
+- The **bar chart** for Top 10 Country by Revenue (excluding UK) shows that Netherlands, EIRE and Germany are the leading countries followed by Australia, Spain. The chart also shows a huge gap in revenue between the first country in the list and the tenth country. This suggests the posibility of doing something to improve in this direction.
+- Created a **column chart** to visualize top 10 customers.
+- Created a Map chart to show the distribution of sales of the company excluding UK. This shows, most of the sales come from European countries.
 
 ### Skills Used in Excel
 - Formating
@@ -43,20 +50,14 @@ Published in Journal of Database Marketing and Customer Strategy Management, Vol
 - Data Cleaning
 - Sorting and Filtering
 - Power Query
-  - Splitting Columns
-  - Removing unwanted space (Trim)
-  - Changing Data Type
-  - Replacing missing values with appropriate values
-  - Transformation -> Change Case to Proper, UPPER
-- Data Visualization in Power BI - Charts and Graphs
+- Data Visualization in **Power BI** - Charts and Graphs
   - Column Chart
   - Bar Chart
   - Line Chart
   - Waterfall Chart
   - Map
   - Table
-- Formulas (COUNTBLANK, UNIQUE, TEXT)
-
+- Formulas (COUNTBLANK, COUNTIFS, UNIQUE)
 
 ### Dashboard Images
 
