@@ -34,6 +34,28 @@ As per the instructions filtered and removed rows with Quantity<1 and UnitPrice<
 
 ### Analysis and Visualization
 
+### Skills Used in Excel
+- Formating
+- Text to Columns
+- Conditional Formating
+- Data Cleaning
+- Sorting and Filtering
+- Power Query
+  - Splitting Columns
+  - Removing unwanted space (Trim)
+  - Changing Data Type
+  - Replacing missing values with appropriate values
+  - Transformation -> Change Case to Proper, UPPER
+- Data Visualization - Charts and Graphs
+  - Column Chart
+  - Bar Chart
+  - Line Chart
+  - Waterfall Chart
+  - Map
+  - Table
+- Formulas (COUNTBLANK, UNIQUE, TEXT)
+
+
 ### Dashboard Images
 
 <img src="Images/Question-1.png">
