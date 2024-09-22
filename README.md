@@ -35,6 +35,7 @@ Published in Journal of Database Marketing and Customer Strategy Management, Vol
 - Changed format of all columns to appropriate format.
 
 ### Analysis and Visualization
+- Used Power BI for visualization.
 - Created a **line chart** to visualize revenue from Jan-11 to Dec-11
   * The chart reveals a mix trend in revenue from Jan to Apr then it shows a small growth from May till Nov.
 - The above line chart revealed a sharp dip in revenue between Jan to Apr. To investigate the reason behind this dip, created a **waterfall chart**
