@@ -1,4 +1,4 @@
-# Online Retail Store
+# Online Retail Store Data Analysis using & POWER BI
 
 ### About the Case Study
 
