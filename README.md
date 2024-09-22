@@ -34,10 +34,6 @@ As per the instructions filtered and removed rows with Quantity<1 and UnitPrice<
 
       Removed all these rows. To delete these rows first filtered the table for Quantity<1 and UnitPrice<0 then deleted the filtered rows from the table.
 
-
-
-
-
 ### Analysis and Visualization
 
 ### Dashboard Images
