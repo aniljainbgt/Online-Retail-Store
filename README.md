@@ -25,8 +25,11 @@ Published in Journal of Database Marketing and Customer Strategy Management, Vol
 
 First of all uesed conditional formatting to indentify blank/missing values. 
 
-Found 1,33,358 rows with missing Customer Ids, 597 rows with missing or invalid description just with a "?"
+Found 1,35,079 rows with missing Customer Ids, 1453+47 rows with missing or invalid description just with a "?"
       Used **Find & Replace** feature to replace these blank/invalid values with "Unknown" 
+
+As per the instructions filtered and removed rows with Quantity<1 and UnitPrice<0, as these should not be included in the analysis
+
 
 
 
