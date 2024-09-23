@@ -71,6 +71,6 @@ Published in Journal of Database Marketing and Customer Strategy Management, Vol
 
 <img src="Images/Question-4.png">
 
-### LinkedIn Profile
+### Connect with Me
 
-[Anil Jain](https://www.linkedin.com/in/anil-jain-bgt/)
+- [**LinkedIn**](https://www.linkedin.com/in/anil-jain-bgt/)
