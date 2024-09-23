@@ -70,3 +70,7 @@ Published in Journal of Database Marketing and Customer Strategy Management, Vol
 <img src="Images/Question-3.png">
 
 <img src="Images/Question-4.png">
+
+### LinkedIn Profile
+
+[Anil Jain](https://www.linkedin.com/in/anil-jain-bgt/)
