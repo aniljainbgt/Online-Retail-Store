@@ -45,7 +45,7 @@ Published in Journal of Database Marketing and Customer Strategy Management, Vol
 - Created a **Map chart** to show the distribution of sales of the company excluding UK.
 - The Map clearly highlights a concentration of demand in European countries, with larger bubbles indicating stronger demand in regions like Germany and France. While Europe takes the spotlight, there is potential in regions like Australia and parts of Asia, as indicated by the presence of bubbles, though smaller in size.
 
-### Skills Used in Excel
+### Skills Used in Excel/Power BI
 - Formating
 - Text to Columns
 - Conditional Formating
