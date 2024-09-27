@@ -51,7 +51,6 @@ Published in Journal of Database Marketing and Customer Strategy Management, Vol
 - Conditional Formating
 - Data Cleaning
 - Sorting and Filtering
-- Power Query
 - Data Visualization in **Power BI** - Charts and Graphs
   - Column Chart
   - Bar Chart
